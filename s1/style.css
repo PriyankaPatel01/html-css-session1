@@ -1,0 +1,43 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 100vh;
+    margin: 0%;
+}
+
+.container
+{
+    text-align: center;
+}
+
+button
+{
+    padding: 10px;
+    border-radius: 20px;
+    border: solid 2px;
+    background-color: aqua;
+    cursor: pointer;
+
+}
+
+button:hover
+{
+ background-color: rgb(28, 107, 107);   
+ color: wheat;
+}
+
+table
+{
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    height: 10px;
+    width: 10px;
+    border: solid black 1px;
+}
